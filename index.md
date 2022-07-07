@@ -22,6 +22,8 @@ For my main project, I am building an emotive robot. This robot, as of right now
 
 [![First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574117/video_to_markdown/images/youtube--CaCazFBhYKs-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=CaCazFBhYKs "First Milestone"){:target="_blank" rel="noopener"}
 
+[![Schematic](Screenshot2022-07-07151303.png)
+
 # Starter Project - Useless Machine
 For my starter project here at Bluestamp, I built a useless machine. In its essence this machine uses a motor, two switches, and an LED to work the way it does. One of the switches is a DPDT (or a double pull double throw). This switch changes positions to turn the motor in one direction which gets the arm to move up. While this happens the arm releases the snap switch and the LED turns green here. Then the arm pushes the switch back to its starting position , causing current to start moving in the opposite direction, reversing the motor and returning the arm down to its initial position. Now the LED turns red and the arm presses back onto the snap switch. I really enjoyed learning to solder and it was great seeing it all work. On the other hand, I struggled a bit to learn how to solder and putting the box itself together was definitely a struggle. The screws were hard to put in as well. 
 
