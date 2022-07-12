@@ -21,9 +21,7 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 For my main project, I am building an emotive robot. This robot, as of right now, displays 3 different emotions based on distance using an ultrasonic sensor. For my first milestone, I have essentially got all the different aspects of the robot (eyes, brows, neck, head, and message display working together to show the emotions. When I hover my hand over the sensor, these 8x8 matrices light up to show angry or sad eyes instead of neutral. The only other way emotions are conveyed on the face is through the two servos for the eyebrows. There is also an LCD display that displays text that indicates the emotion on the face. The two neck and head servos move depending on the current emotion as well. I enjoyed getting all of the pieces soldered and connected to the breadboard and arduino. But I struggled to learn how to code (especially for the servos that control the head and neck). As for the next steps, I will need to add a Bluetooth aspect to be able to control the robot using my phone, download WAV files to test sound and build the robot itself.
 
 
-[![Starter Project - Useless Machine](https://i.ytimg.com/vi/OR93ixwcLCk/hqdefault.jpg)](https://www.youtube.com/watch?v=5tkmLHf8aSw)
-
-[![First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574117/video_to_markdown/images/youtube--CaCazFBhYKs-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=CaCazFBhYKs "First Milestone"){:target="_blank" rel="noopener"}
+[![milestone1](https://i.ytimg.com/vi/5tkmLHf8aSw/maxresdefault.jpg)](https://www.youtube.com/watch?v=5tkmLHf8aSw "milestone1")
 
 [![Schematic](https://github.com/BlueStamp-Engineering-2022/prisha_BSE_project/blob/gh-pages/Screenshot%202022-07-07%20151303.png?raw=true)](https://github.com/BlueStamp-Engineering-2022/prisha_BSE_project/blob/gh-pages/schematic.fzz)
 https://github.com/BlueStamp-Engineering-2022/prisha_BSE_project/blob/gh-pages/schematic.fzz
