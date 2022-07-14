@@ -1,5 +1,5 @@
 ﻿# Emotive Robot
-This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
+My project is a emotive robot inspired by Wall-E. It wakes up feeling neutral, and then becomes happy or sad depending on your distance from it. It also goes through a range of other emotions through by the prees of a button from my phone!
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
