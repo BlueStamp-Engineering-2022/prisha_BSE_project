@@ -1,2 +1,2 @@
-To edit your portfolio, please go over to the gh_pages branch!
-Name: FirstName_BSE_Portfolio
+Hey! Here are all the schematics and code for my project. If you would like to take a peak at the documentation I wrote please follow this link: https://bluestamp-engineering-2022.github.io/prisha_BSE_project/ 
+- Prisha <3
