@@ -28,7 +28,7 @@ For my main project, I am building an emotive robot. This robot, as of right now
 [![Schematic](https://github.com/BlueStamp-Engineering-2022/prisha_BSE_project/blob/gh-pages/Screenshot%202022-07-07%20151303.png?raw=true)](https://github.com/BlueStamp-Engineering-2022/prisha_BSE_project/blob/gh-pages/schematic.fzz)
 https://github.com/BlueStamp-Engineering-2022/prisha_BSE_project/blob/gh-pages/schematic.fzz
 
-Milestone 1 Code:
+Milestone Code (Final):
 https://github.com/BlueStamp-Engineering-2022/prisha_BSE_project/blob/gh-pages/Emotive_Robot.ino
 
 
