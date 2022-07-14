@@ -8,12 +8,14 @@ My project is a emotive robot inspired by Wall-E. It wakes up feeling neutral, a
 ![Headstone Image](https://lh3.googleusercontent.com/pw/AM-JKLUkS99jYOfRyVM5pa1Fn85Tl83RkDdwBTsBkAbxFSsSqfnlNqXUIJIZZCtJEL8s_as5gwXKoz-YVNBExN49PhGHezDlPr5RkyH4oqag6xjgIpewtYsRe58wpP4a1WgDcSkSpNWkwPcZIcikMm5fPm8=s1350-no?authuser=0)
   
 # Final Milestone
-My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint. 
+For my last milestone I got the bluetooth aspect of my robot working. I enjoyed making new emotions. But I struggled to get the bluetooth and the buttons to work.
+ 
 
 [![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone"){:target="_blank" rel="noopener"}
 
 # Second Milestone
-My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint.
+For my second milestone, I changed my wiring to make it more permanent and am using a perf board instead of a breadboard. I also finished the main build of the robot. I enjoyed making the build. But I struggled to get the wiring done so that it doesn't break and isn't too messy. Next I have to do the Bluetooth aspect to be able to control the robot using my phone.
+
 
 [![Third Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574014/video_to_markdown/images/youtube--y3VAmNlER5Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=y3VAmNlER5Y&feature=emb_logo "Second Milestone"){:target="_blank" rel="noopener"}
 
