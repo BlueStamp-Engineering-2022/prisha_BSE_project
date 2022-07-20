@@ -205,7 +205,8 @@ void loop() {
       matrix.writeDisplay();
 
       //BROWS 
-      servos(90, 20, 150, 150);
+      servos(50, 10, 120, 60);
+      //pan, tilt, left, right
       
       //LCD 1
       lcd.clear();
@@ -224,7 +225,8 @@ void loop() {
       matrix.writeDisplay();
 
       //BROWS & HEAD START 2`
-      servos(90, 90, 60, 60);
+      servos(95, 90, 60, 120);
+      //pan, tilt, left, right
 
       //LCD 1
       
@@ -247,7 +249,8 @@ void loop() {
       matrix.writeDisplay();
 
       //BROWS & HEAD START 3
-      servos(90, 60, 180, 180);
+      servos(95, 90, 60, 120);
+      //pan, tilt, left, right
       
       //LCD 1
       lcd.print("lol");
@@ -267,7 +270,8 @@ void loop() {
       matrix.writeDisplay();
 
       //BROWS & HEAD START 3
-      servos(90, 60, 180, 180);
+      servos(95, 60, 120, 60);
+      //pan, tilt, left, right
       
       //LCD 1
       lcd.print("<3 ");
@@ -287,7 +291,8 @@ void loop() {
       matrix.writeDisplay();
 
       //BROWS & HEAD START 3
-      servos(90, 60, 180, 180);
+      servos(95, 90, 90, 90);
+      //pan, tilt, left, right
       
       //LCD 1
       lcd.print("x_x");
@@ -307,7 +312,8 @@ void loop() {
       matrix.writeDisplay();
 
       //BROWS & HEAD START 3
-      servos(90, 60, 180, 180);
+      servos(50, 10, 90, 90);
+      //pan, tilt, left, right
       
       //LCD 1
       lcd.print("Zzz");
@@ -329,7 +335,8 @@ void loop() {
       matrix.writeDisplay();
 
       //BROWS & HEAD START 3
-      servos(90, 60, 180, 180);
+      servos(95, 60, 90, 90);
+      //pan, tilt, left, right
       
       //LCD 1
       lcd.print("O-O");
