@@ -12,15 +12,12 @@ My project is a emotive robot inspired by Wall-E. It wakes up feeling neutral, a
 # Final Milestone
 For my last milestone I got the bluetooth aspect of my robot working. I enjoyed making new emotions. But I struggled to get the bluetooth and the buttons to work.
  
-
-[![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone"){:target="_blank" rel="noopener"}
+[![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1658444171/video_to_markdown/images/google-drive--1lk9FpN0zHIjspWHuGTBOKnYI6KhXhmHL-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://drive.google.com/file/d/1lk9FpN0zHIjspWHuGTBOKnYI6KhXhmHL/view?usp=sharing "Final Milestone")
 
 # Second Milestone
 For my second milestone, I changed my wiring to make it more permanent and am using a perf board instead of a breadboard. I also finished the main build of the robot. I enjoyed making the build. But I struggled to get the wiring done so that it doesn't break and isn't too messy. Next I have to do the Bluetooth aspect to be able to control the robot using my phone.
 
-[![](https://res.cloudinary.com/marcomontalbano/image/upload/v1658443780/video_to_markdown/images/google-drive--1tgUw-w87VbUpzUtnoKxiZXd68djLs-vr-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://drive.google.com/file/d/1tgUw-w87VbUpzUtnoKxiZXd68djLs-vr/view?usp=sharing "")
-
-[![Third Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574014/video_to_markdown/images/youtube--y3VAmNlER5Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=y3VAmNlER5Y&feature=emb_logo "Second Milestone"){:target="_blank" rel="noopener"}
+[![Second Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1658443780/video_to_markdown/images/google-drive--1tgUw-w87VbUpzUtnoKxiZXd68djLs-vr-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://drive.google.com/file/d/1tgUw-w87VbUpzUtnoKxiZXd68djLs-vr/view?usp=sharing "")
 
 # First Milestone
 For my main project, I am building an emotive robot. This robot, as of right now, displays 3 different emotions based on distance using an ultrasonic sensor. For my first milestone, I have essentially got all the different aspects of the robot (eyes, brows, neck, head, and message display working together to show the emotions. When I hover my hand over the sensor, these 8x8 matrices light up to show angry or sad eyes instead of neutral. The only other way emotions are conveyed on the face is through the two servos for the eyebrows. There is also an LCD display that displays text that indicates the emotion on the face. The two neck and head servos move depending on the current emotion as well. I enjoyed getting all of the pieces soldered and connected to the breadboard and arduino. But I struggled to learn how to code (especially for the servos that control the head and neck). As for the next steps, I will need to add a Bluetooth aspect to be able to control the robot using my phone, download WAV files to test sound and build the robot itself.
