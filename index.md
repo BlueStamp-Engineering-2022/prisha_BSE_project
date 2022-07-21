@@ -7,7 +7,7 @@ My project is a emotive robot inspired by Wall-E. It wakes up feeling neutral, a
 
 ![Headstone Image](https://lh3.googleusercontent.com/pw/AM-JKLUkS99jYOfRyVM5pa1Fn85Tl83RkDdwBTsBkAbxFSsSqfnlNqXUIJIZZCtJEL8s_as5gwXKoz-YVNBExN49PhGHezDlPr5RkyH4oqag6xjgIpewtYsRe58wpP4a1WgDcSkSpNWkwPcZIcikMm5fPm8=s1350-no?authuser=0)
   
-![test](https://github.com/BlueStamp-Engineering-2022/prisha_BSE_project/blob/gh-pages/IMG_0935.jpg?raw=true)
+![test](https://github.com/BlueStamp-Engineering-2022/prisha_BSE_project/blob/gh-pages/IMG-0936.jpg?raw=true)
   
 # Final Milestone
 For my last milestone I got the bluetooth aspect of my robot working. I enjoyed making new emotions. But I struggled to get the bluetooth and the buttons to work.
