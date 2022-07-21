@@ -18,6 +18,7 @@ For my last milestone I got the bluetooth aspect of my robot working. I enjoyed 
 # Second Milestone
 For my second milestone, I changed my wiring to make it more permanent and am using a perf board instead of a breadboard. I also finished the main build of the robot. I enjoyed making the build. But I struggled to get the wiring done so that it doesn't break and isn't too messy. Next I have to do the Bluetooth aspect to be able to control the robot using my phone.
 
+[![](https://res.cloudinary.com/marcomontalbano/image/upload/v1658443780/video_to_markdown/images/google-drive--1tgUw-w87VbUpzUtnoKxiZXd68djLs-vr-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://drive.google.com/file/d/1tgUw-w87VbUpzUtnoKxiZXd68djLs-vr/view?usp=sharing "")
 
 [![Third Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574014/video_to_markdown/images/youtube--y3VAmNlER5Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=y3VAmNlER5Y&feature=emb_logo "Second Milestone"){:target="_blank" rel="noopener"}
 
